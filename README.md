@@ -23,10 +23,10 @@
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
-## 🚀 Projetos em destaque
+<!--## 🚀 Projetos em destaque
 
 - **[nome-do-projeto](link)**: o que faz e tecnologias usadas.
-- **[nome-do-projeto](link)**: idem.
+- **[nome-do-projeto](link)**: idem.-->
 
 ## 📈 Estatísticas
 
